@@ -1,7 +1,10 @@
 ---
 ---
 
-body {
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap');
+
+body header {
     
     background-color: darkslategray;
     
@@ -12,5 +15,3 @@ h1 h2 h3 h4 h5 h6 p {
     color: green;
 }
 
-
-@import "{{ site.theme }}";
