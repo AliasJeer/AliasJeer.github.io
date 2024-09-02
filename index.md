@@ -1,8 +1,12 @@
 ---
-layout: home
-excerpt: "This post should [...]"
+layout: splash
 header:
-  image: /assets/images/splash-head.jpg
+  overlay_image: /assets/images/splash-head.jpg
+  actions:
+    - label: "Visit Portfolio"
+      url: "/posts"
+    - label: "Contact Me"
+      url: "/about"
 ---
 
 ## Testing the title

@@ -1,8 +1,8 @@
 main:
-  - title: Projects
-    link: /posts.html
-  - title: About
-    link: /about.html
-  - title: Home
-    link: /
+  - title: "Projects"
+    url: /posts.html
+  - title: "About"
+    url: /about.html
+  - title: "Home"
+    url: /
 

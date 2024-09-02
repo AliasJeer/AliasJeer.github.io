@@ -8,6 +8,26 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-h2 h2 h3 {
+.posts_layout {
+    padding: 1em 2em;
+}
+.about_layout {
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.post_date {
+    padding-right: 1em;
+}
+
+.post_list_item {
+    padding: 0.5em 0em;
+}
+
+/*
+.page__content,
+a .list__item,
+.archive__subtitle {
     color:rgb(37, 179, 162)
 }
+*/
