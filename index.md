@@ -2,6 +2,23 @@
 layout: default
 ---
 
+# AliasJeer Cybersecutity and Curiosities
+
+Check out my projects here
+
+Check out my blog here
+
+
+
+#### Subheading
+
+
+
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
