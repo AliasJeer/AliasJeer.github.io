@@ -1,0 +1,8 @@
+main:
+  - title: Projects
+    link: /posts.html
+  - title: About
+    link: /about.html
+  - title: Home
+    link: /
+
