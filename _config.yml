@@ -46,6 +46,8 @@ defaults:
       share: true
       related: true
 
+teaser: /assets/images/splash-head.jpg
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

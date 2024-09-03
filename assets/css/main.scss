@@ -21,13 +21,25 @@ search: false
 }
 
 .post_list_item {
-    padding-top: 0.5em;
+    margin-bottom: 2.5em;
+    padding: 1.5em;
+    border-color:aquamarine;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5%;
 }
 
 .post_item_picture {
     width: 60%;
     height: auto;
     padding-bottom: 1em;
+}
+
+.blog_title {
+    align-self: center;
+    align-content: center;
+    align-items: center;
+    padding: 1em;
 }
 
 /*
