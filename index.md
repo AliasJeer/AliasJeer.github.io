@@ -8,5 +8,36 @@ header:
     - label: "Contact Me"
       url: "/about"
 ---
+# Hacksperience™
 
-## Testing the title
+## HTB Academy
+
+##### Targets Compromised: 86
+##### Ranking: top 5%
+
+#### Completed Modules
+- Linux Fundamentals
+- Introduction to Bash Scripting
+- Web Requests
+- JavaScript Deobfuscation
+- Windows Fundamentals
+- Attacking Web Applications with ffuf
+- Introductions to Web Applications
+- Information Gathering - Web Edition
+- File Upload Attacks
+- Incident Handling Process
+- Introduction to Windows Command Line
+- API Attacks
+
+## TryHackMe
+
+
+## Tools
+- git
+- nmap
+- burpsuite/caido
+- obsidian
+- dig/nslookup
+- ffuf
+- metasploit
+- curl

@@ -9,7 +9,7 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 .posts_layout {
-    padding: 1em 2em;
+    padding: 0em 2em;
 }
 .about_layout {
     padding-left: 2em;
@@ -21,25 +21,22 @@ search: false
 }
 
 .post_list_item {
-    margin-bottom: 2.5em;
-    padding: 1.5em;
-    border-color:aquamarine;
-    border-style: solid;
-    border-width: 2px;
-    border-radius: 5%;
+    margin-bottom: 3.5em;
 }
 
 .post_item_picture {
     width: 60%;
     height: auto;
-    padding-bottom: 1em;
+    margin-bottom: 1em;
+    border-color:aquamarine;
+    border-style: solid;
+    border-width: 2px;
 }
 
 .blog_title {
-    align-self: center;
-    align-content: center;
-    align-items: center;
-    padding: 1em;
+    padding-bottom: 1em;
+    padding-left: 0.5em;
+    margin-top: 1em;
 }
 
 /*

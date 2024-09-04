@@ -1,8 +1,9 @@
 main:
-  - title: "Projects"
-    url: /posts.html
-  - title: "About"
-    url: /about.html
   - title: "Home"
     url: /
+  - title: "Portfolio"
+    url: /posts.html
+  - title: "Contact"
+    url: /about.html
+
 
