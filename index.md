@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: AliasJeer
 header:
   overlay_image: /assets/images/splash-head.jpg
   actions:
