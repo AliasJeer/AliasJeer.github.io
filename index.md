@@ -1,15 +1,18 @@
 ---
 layout: splash
+title: Welcome to my portfolio
 header:
-  overlay_image: /assets/images/splash-head.jpg
+  overlay_image: /assets/images/circuithead-original.jpg
+  overlay_filter: 0.5 
   actions:
     - label: "Visit Portfolio"
       url: "/posts"
     - label: "Contact Me"
       url: "/about"
 ---
-# Jeer's Portfolio
-# Hacksperience™
+<br>
+
+# Jeer's Hacksperience™
 
 ## HTB Academy
 
