@@ -1,6 +1,5 @@
 ---
 layout: splash
-title: AliasJeer
 header:
   overlay_image: /assets/images/splash-head.jpg
   actions:
@@ -9,6 +8,7 @@ header:
     - label: "Contact Me"
       url: "/about"
 ---
+# Jeer's Portfolio
 # Hacksperience™
 
 ## HTB Academy

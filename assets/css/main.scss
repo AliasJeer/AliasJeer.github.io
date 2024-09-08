@@ -11,10 +11,21 @@ search: false
 .posts_layout {
     padding: 0em 2em;
 }
-.about_layout {
+.default_layout {
     padding-left: 2em;
     padding-right: 2em;
 }
+
+.aritcle_default_layout {
+    margin: 0 4em;
+}
+
+.single_page_layout {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
 
 .post_date {
     padding-right: 1em;
@@ -37,6 +48,34 @@ search: false
     padding-bottom: 1em;
     padding-left: 0.5em;
     margin-top: 1em;
+}
+.page_title #page-title {
+    padding-top: 10e;
+}
+
+.article_header {
+    padding-top: 2em;
+}
+
+.article_page_meta {
+    margin: 1em, 0em;
+    padding-bottom: 1em;
+    font-size: small;
+}
+
+.page_hero_div {
+    width: 85%;
+    height: auto;
+    margin: 0;
+}
+
+.single_main_div#main {
+    padding: 0;
+}
+
+.masthead__inner-wrap {
+    padding: 1em 0;
+    max-width: 100%;
 }
 
 /*
