@@ -85,6 +85,37 @@ search: false
     max-width: 100%;
 }
 
+.about_section {
+    width: 100%;
+    margin: 1.5em 0;
+    padding: 1em;
+}
+
+.about_image {
+    border-radius: 50%;
+    max-width: 50%;
+    height: auto;
+}
+
+.about_section_image {
+    width:50%;
+    padding: 0;
+    margin: 0;
+    float: left;
+    justify-content: center;
+}
+
+.about_section_content {
+    width:50%;
+    padding: 0;
+    margin: 0;
+    float: right;
+}
+
+.page__content {
+    float: left;
+}
+
 /*
 .page__content,
 a .list__item,
