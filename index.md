@@ -8,7 +8,7 @@ header:
     - label: "Visit Portfolio"
       url: "/posts"
     - label: "Contact Me"
-      url: "/about"
+      url: "#contact-me"
 ---
 <br>
 

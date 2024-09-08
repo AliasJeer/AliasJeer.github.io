@@ -3,5 +3,7 @@ main:
     url: /
   - title: "Portfolio"
     url: /posts.html
+  - title: "Contact Me"
+    url: ../index.html#contact-me
 
 
