@@ -47,6 +47,7 @@ defaults:
       related: true
 
 teaser: /assets/images/splash-head.jpg
+logo: "/assets/images/jeer-logo.svg"
 
 
 # Exclude from processing.
