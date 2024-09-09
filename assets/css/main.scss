@@ -88,7 +88,6 @@ search: false
 .about_section {
     width: 100%;
     margin: 1em 0;
-    padding: 1em;
 }
 
 .about_image {
@@ -111,10 +110,15 @@ search: false
     padding: 0;
     margin: 0;
     float: right;
+    text-align: justify;
 }
 
 .page__content {
     float: left;
+}
+
+a:link.email_link {
+    text-decoration: none;
 }
 
 @media only screen and (max-width:768px) {
