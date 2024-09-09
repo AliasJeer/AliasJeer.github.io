@@ -11,15 +11,14 @@ header:
       url: "#contact-me"
 ---
 <br>
-
-I love all things tech and have spent the last decade getting to know as much as I can. Throughout the journey I have learned about coding, design, data analytics, ML/AI, and, most recently, cybersecurity. I am a lifelong learner and enjoy building a well-rounded set of skills in the areas that interest me. I believe there is enormous value in combining skills to
-
 # Jeer's Hacksperience™
+---
 
-### HTB Academy
+## HTB Academy
 
 ##### Targets Compromised: 86
 ##### Ranking: top 5%
+##### Modules Completed: 12
 
 #### Completed Modules
 - Linux Fundamentals
@@ -35,10 +34,15 @@ I love all things tech and have spent the last decade getting to know as much as
 - Introduction to Windows Command Line
 - API Attacks
 
-### TryHackMe
+
+## TryHackMe
+<script src="https://tryhackme.com/badge/2153607"></script>
+##### Ranking: top 12%
+##### Rooms Completed: 33
+##### Badges: 8
 
 
-### Tools
+## Tools
 - git
 - nmap
 - burpsuite/caido
