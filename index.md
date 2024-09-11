@@ -16,9 +16,11 @@ header:
 
 ## HTB Academy
 
-##### Targets Compromised: 86
-##### Ranking: top 5%
-##### Modules Completed: 12
+| Ranking | Modules Complete | Targets Compromised |     |
+| :-----: | :--------------: | :-----------------: | --- |
+| Top 5%  |        12        |         86          |     |
+
+
 
 #### Completed Modules
 - Linux Fundamentals
@@ -36,11 +38,24 @@ header:
 
 
 ## TryHackMe
-<script src="https://tryhackme.com/badge/2153607"></script>
-##### Ranking: top 12%
-##### Rooms Completed: 33
-##### Badges: 8
 
+| Ranking |      Badges      |   Rooms Completed   |
+| :-----: | :--------------: | :-----------------: |
+| Top 12% |        8         |         33          |
+
+<script src="https://tryhackme.com/badge/2153607"></script>
+<br>
+#### Completed Rooms
+- Careers in Cyber
+- Intro to Defensive Security
+- Intro to Offensive Security
+- What is Networking
+- OSI Model
+- Packets & Frames
+- Intro to LAN
+- Extending Your Network
+- DNS in Detail
+- Starting Out in Cybersecurity
 
 ## Tools
 - git

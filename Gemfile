@@ -34,8 +34,7 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-# Install minimal mistakes theme
-
-
-#instal cache plugin for theme compatibility
+#install cache plugin for theme compatibility
 gem 'jekyll-include-cache'
+
+gem 'jekyll-compose', group: [:jekyll_plugins]

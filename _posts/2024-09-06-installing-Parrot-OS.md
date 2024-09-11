@@ -2,7 +2,8 @@
 layout: single
 title:  "Switching to Linux"
 date:   2024-09-01 23:27:31 -0500
-categories: Linux
+categories: Linux, Operating Systems, Cybersecurity
+author: AliasJeer
 header: 
     image: /assets/images/parrot-desktop-screenshot.png
     teaser: /assets/images/parrot-desktop-screenshot.png

@@ -125,6 +125,17 @@ a:link.email_link {
     width: 100%;
 }
 
+.default_page_content {
+    line-height: 1;
+}
+
+.single_page_content {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 @media only screen and (max-width:768px) {
     .about_section_image {
         width:100%;
@@ -133,6 +144,12 @@ a:link.email_link {
     .about_section_content {
         width:100%;
 
+    }
+
+    .single_page_content {
+        max-width: 100%;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
 
